@@ -11,10 +11,3 @@
   - [![Thoughts Badge](https://img.shields.io/badge/Thoughts%20Page-grey?style=flat-square&logo=notion&logoColor=white&link=https://life.seonglae.com)](https://life.seonglae.com)
 
   - [![Knowledge Badge](https://img.shields.io/badge/Knowledge%20Page-grey?style=flat-square&logo=notion&logoColor=white&link=https://info.seonglae.com)](https://info.seonglae.com)
-
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungle3737)](https://hits.seeyoufarm.com)
-	
-</div>
-
