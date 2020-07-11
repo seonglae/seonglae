@@ -1,6 +1,9 @@
 - 0️⃣ I’m currently working on **Stryx in Seoul Yeonnam Dong**
+
 - 1️⃣ My current interest is **Nuxt, Point Cloud, GCP, TypeScript** ...
+
 - 2️⃣ If you want to know more **about Me**
+
   - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/)
 
   - [![Portfolio Badge](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=cloudflare&logoColor=white&link=https://seonglae.com)](https://seonglae.com)
