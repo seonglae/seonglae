@@ -1,5 +1,8 @@
+<div align=center>
+	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungle3737)](https://hits.seeyoufarm.com)
-
+	
+</div>
 - 0️⃣ I’m currently working on **Stryx in Seoul Yeonnam Dong**
 - 1️⃣ My current interest is **Nuxt, Point Cloud, GCP, TypeScript** ...
 - 2️⃣ If you want to know more **about Me**
