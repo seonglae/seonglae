@@ -1,6 +1,6 @@
 - I’m currently working on **Stryx in Seoul Yeonnam Dong** 😂
 
-- My current interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 👍
+- My current interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 😜
 
 - If you want to know more **about Me** 😁
 
