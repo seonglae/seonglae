@@ -1,8 +1,10 @@
-- I’m currently working on **Stryx in Seoul Yeonnam Dong** 😂
+## Introduce
 
-- My current interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 😜
+Working on **Stryx in Seoul Yeonnam Dong** 😂
 
-- If you want to know more **about Me** 😁
+Interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 😜
+
+If you want to know more **about Me** 😁
 
   - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/)
 
@@ -13,3 +15,13 @@
   - [![Thoughts Badge](https://img.shields.io/badge/Thoughts%20Page-grey?style=flat-square&logo=notion&logoColor=white&link=https://life.seonglae.com)](https://life.seonglae.com)
 
   - [![Knowledge Badge](https://img.shields.io/badge/Knowledge%20Page-grey?style=flat-square&logo=notion&logoColor=white&link=https://info.seonglae.com)](https://info.seonglae.com)
+
+
+## My Products
+###  VScode Extensions
+- [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal)
+- [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter)
+
+### Windows Applications
+- [Intuiter](https://github.com/sungle3737/intuiter/releases)
+
