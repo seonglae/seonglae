@@ -21,7 +21,7 @@ If you want to know more **about Me** 😁
 - [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool
 
 ### Windows Applications
-- [Intuiter](https://github.com/sungle3737/intuiter/releases) - Productivity Tool
+- **Intuiter** - Productivity Tool - `winget install intuiter`
 
 ### Web Page
 - [Seong-Land](https://seonglae.com) - Main Page
