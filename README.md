@@ -6,11 +6,11 @@ Interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 😜
 
 If you want to know more **about Me** 😁
 
-  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/) - Tech Specs
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=round-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/) - Tech Specs
 
-  - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006296858033)](https://www.facebook.com/profile.php?id=100006296858033) - History
+  - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006296858033)](https://www.facebook.com/profile.php?id=100006296858033) - History
 
-  - [![Notion Badge](https://img.shields.io/badge/Knowledge%20Page-grey?style=flat-square&logo=notion&logoColor=white&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
+  - [![Notion Badge](https://img.shields.io/badge/Knowledge%20Page-grey?style=round-square&logo=notion&logoColor=white&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
 
 
 ## My Products
