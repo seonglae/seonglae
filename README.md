@@ -23,7 +23,7 @@ Kind Programs developed by unkind programmer
 - [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool
 
 ### Windows Applications
-- **Intuiter** - Productivity Tool - `winget install intuiter`
+- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter`
 
 ### Web Page
 - [Seong-Land](https://seongland.com) - Main Page
