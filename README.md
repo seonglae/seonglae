@@ -10,9 +10,9 @@ If you want to know more **about Me** 😁
 
   - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006296858033)](https://www.facebook.com/profile.php?id=100006296858033) - History
 
-  - [![Notion Badge](https://img.shields.io/badge/Knowledge-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
- 
-   - [![Medium Badge](https://img.shields.io/badge/Publish-black?style=round-square&logo=medium&logoColor=white&link=https://seongland.medium.com)]( https://seongland.medium.com/) - My Publishes
+   - [![Medium Badge](https://img.shields.io/badge/Medium-black?style=round-square&logo=medium&logoColor=white&link=https://seongland.medium.com)]( https://seongland.medium.com/) - My Documents
+   
+  - [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
  
 
 
