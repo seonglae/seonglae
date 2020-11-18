@@ -19,17 +19,17 @@ If you want to know more **about Me** 😁
 ## My Products
 Kind Programs developed by unkind programmer
 
-불친절한 프로그래머가 만드는 친절한 프로그램들
+불친절한 프로그래머가 만드는 친절한 프로그램
 
 ###  VScode Extensions
-- [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal) - VSCode Theme
-- [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool
+- [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal) - VSCode Theme 😝
+- [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool 🤗
 
 ### Windows Applications
-- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter`
+- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter` 🤗
 
 ### Web Page
-- [Seong-Land](https://seongland.com) - Main Page
+- [Seong-Land](https://seongland.com) - Main Page 😎
 
 <br/>
 
