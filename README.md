@@ -31,6 +31,6 @@ Kind Programs developed by unkind programmer
 ### Web Page
 - [Seong-Land](https://seongland.com) - Main Page
 
----
+<br/>
 
 [![Seonglae's github stats](https://github-readme-stats.vercel.app/api?username=sungle3737&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sungle3737)
