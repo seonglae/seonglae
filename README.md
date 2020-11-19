@@ -1,6 +1,6 @@
 [![Seonglae's github stats](https://github-readme-stats.vercel.app/api?username=sungle3737&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/sungle3737)
 
-[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
