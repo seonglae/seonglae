@@ -36,6 +36,6 @@ Kind Programs developed by unkind programmer
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/seongland">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=☕&amp;slug=seongland&amp;button_colour=fff7&amp;font_colour=000&amp;font_family=Lato&amp;outline_colour=&amp;coffee_colour=424242">
+<a href="https://www.buymeacoffee.com/seongland">	<a href="https://www.buymeacoffee.com/seongland">
+   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=seongland&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00">	<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=☕&amp;slug=seongland&amp;button_colour=fff7&amp;font_colour=000&amp;font_family=Lato&amp;outline_colour=&amp;coffee_colour=424242">
 </a>
