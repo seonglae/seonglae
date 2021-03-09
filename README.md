@@ -35,6 +35,9 @@ Kind Programs developed by unkind programmer
 
 ### Web Page
 - [Seong-Land](https://seongland.com) - Main Page 😎
+- [Seong-Land](https://point.seongland.com) - Web Metaverse
+- [Seong-Land](https://live.seongland.com) - Seongland Broadcast
+- [Seong-Land](https://status.seongland.com) - Seongland subdomains status
 
 <br/>
 
