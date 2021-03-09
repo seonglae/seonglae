@@ -28,7 +28,7 @@ Kind Programs developed by unkind programmer
 
 ###  VScode Extensions
 - [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal) - VSCode Theme 😝
-- [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool 🤗
+- [Terminal Intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool 🤗
 
 ### Windows Applications
 - [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter` 🤗
