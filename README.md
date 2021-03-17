@@ -6,11 +6,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-Working on **Stryx in Seoul Yeonnam Dong** 😂
+🙏 Sponsor me, I need your support
 
-Interest is **Nuxt, Point Cloud, GCP, TypeScript** ... 😜
+😂 Working on **Stryx in Seoul Yeonnam Dong** 
 
-If you want to know more **about Me** 😁
+😜 Interest is **GCP Cloud Computing, ECMA Scripts, Point Cloud** ... 
+
+😁 If you want to know more **about Me** 
 
    
   - [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
