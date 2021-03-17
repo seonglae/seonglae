@@ -29,14 +29,14 @@ Kind Programs developed by unkind programmer
 불친절한 프로그래머가 만드는 친절한 프로그램
 
 ###  VScode Extensions
-- [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal) - VSCode Theme 😝
-- [Terminal Intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool 🤗
+- [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal) - VSCode Theme
+- [Terminal Intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) - VSCode Productivity Tool
 
 ### Windows Applications
-- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter` 🤗
+- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool - `winget install intuiter`
 
 ### Web Page
-- [Seong-Land](https://seongland.com) - Main Page 😎
+- [Seong-Land](https://seongland.com) - Main Page
 - [Point-Land](https://point.seongland.com) - Web Metaverse
 - [Live-Land](https://live.seongland.com) - Seongland Broadcast
 - [Status-Land](https://status.seongland.com) - Seongland Services Status
