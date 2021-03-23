@@ -2,10 +2,10 @@
 
 ### Simplified Stacks
 - **Infrastructure** - GCP, Cloudflare, [Docker](https://notion.so/seongland/Docker-103c7b90450f45bda55b9b75d0d9e73a)
-- **Frontend** - React, Vue, Nuxt.js, Next.js
-- **Backend** - Node.js, Feathers, Sequelize, Mongoose
 - **DBMS** - MongoDB, PostgreSQL, MariaDB
 - **Language** - Javascript, Typescript, CPP, Python
+- **Backend** - Node.js, Feathers, Sequelize, Mongoose
+- **Frontend** - React, Vue, Nuxt.js, Next.js
 
 ### Information Links
 - [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
