@@ -1,23 +1,15 @@
-[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
---->
-
 ### Stacks
-- **Infrastructure** GCP, Cloudflare, Docker
+- **Infrastructure** - GCP, Cloudflare, Docker
 - **Frontend** - React, Vue, Nuxt.js, Next.js
 - **Backend** - Node.js, Feathers, Sequelize, Mongoose
 - **DBMS** - MongoDB, PostgreSQL, MariaDB
 - **Language** - Javascript, Typescript, CPP, Python
 
-   
+### Infos
 - [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
 - [![Medium Badge](https://img.shields.io/badge/Medium-black?style=round-square&logo=medium&logoColor=white&link=https://seongland.medium.com)]( https://seongland.medium.com/) - My Documents
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=round-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/) - Tech Specs
 - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006296858033)](https://www.facebook.com/profile.php?id=100006296858033) - My Histories
-
- 
 
 
 ## My Products
@@ -36,6 +28,13 @@ Kind Programs developed by unkind programmer
 - [Point-Land](https://point.seongland.com) - Web Metaverse
 - [Live-Land](https://live.seongland.com) - Seongland Broadcast
 - [Status-Land](https://status.seongland.com) - Seongland Services Status
+
+
+[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <br/>
 
