@@ -12,6 +12,13 @@
 - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006296858033)](https://www.facebook.com/profile.php?id=100006296858033) - My Histories
 
 
+[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+
 ## My Products
 Kind Programs developed by unkind programmer
 불친절한 프로그래머가 만드는 친절한 프로그램들
@@ -29,12 +36,6 @@ Kind Programs developed by unkind programmer
 - [Live-Land](https://live.seongland.com) - Seongland Broadcast
 - [Status-Land](https://status.seongland.com) - Seongland Services Status
 
-
-[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
---->
 
 <br/>
 
