@@ -1,11 +1,13 @@
-### Stacks
+## My Informations
+
+### Simplified Stacks
 - **Infrastructure** - GCP, Cloudflare, Docker
 - **Frontend** - React, Vue, Nuxt.js, Next.js
 - **Backend** - Node.js, Feathers, Sequelize, Mongoose
 - **DBMS** - MongoDB, PostgreSQL, MariaDB
 - **Language** - Javascript, Typescript, CPP, Python
 
-### Infos
+### Information Links
 - [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black&link=https://doc.seongland.com)](https://doc.seongland.com) - My Knowledges
 - [![Medium Badge](https://img.shields.io/badge/Medium-black?style=round-square&logo=medium&logoColor=white&link=https://seongland.medium.com)]( https://seongland.medium.com/) - My Documents
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=round-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sungle3737/)](https://www.linkedin.com/in/sungle3737/) - Tech Specs
