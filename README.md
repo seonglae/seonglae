@@ -1,6 +1,6 @@
 ## My Informations
 
-### Simplified Stacks
+### Learned Stack Links
 
 - **Infrastructure** -
   [GCP](https://doc.seongland.com/GCP-dc29aee7d3da4cfbaed3f8bce47e8424),
