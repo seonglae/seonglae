@@ -1,5 +1,6 @@
+
 <a href="https://seongland.com">
-<img src="https://user-images.githubusercontent.com/27716524/112934594-18dc2a00-915d-11eb-9b99-b2618b54dc21.png">
+<img src="https://user-images.githubusercontent.com/27716524/112934898-aae43280-915d-11eb-8ab6-1d5c62f3fc9c.png">
 </a>
 
 ### Learned Stack Links
