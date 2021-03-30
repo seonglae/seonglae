@@ -1,4 +1,6 @@
-## My Informations
+<a href="https://seongland.com">
+<img src="https://user-images.githubusercontent.com/27716524/112934594-18dc2a00-915d-11eb-9b99-b2618b54dc21.png">
+</a>
 
 ### Learned Stack Links
 
@@ -32,6 +34,7 @@
 
 Kind Programs developed by unkind programmer 불친절한 프로그래머가 만드는 친절한
 프로그램들
+![무제](https://user-images.githubusercontent.com/27716524/112934587-14b00c80-915d-11eb-8ebe-25b0a4c7fa86.png)
 
 ### VScode Extensions
 
