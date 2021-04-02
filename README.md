@@ -31,9 +31,7 @@
 --->
 
 ## My Products
-
-Kind Programs developed by unkind programmer 불친절한 프로그래머가 만드는 친절한
-프로그램들
+Simple and Kind is my Software's Motto
 
 ### VScode Extensions
 
