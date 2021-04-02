@@ -41,10 +41,6 @@ Simple and Kind is my Software Products' Motto
 - [Account-Land](https://account.seongland.com) - Seongland Account
 - [Status-Land](https://status.seongland.com) - Seongland Services Status
 
-### Windows Applications
-
-- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool -
-  `winget install intuiter`
 
 ### VScode Extensions
 
@@ -53,6 +49,10 @@ Simple and Kind is my Software Products' Motto
 - [Terminal Intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter) -
   VSCode Productivity Tool
 
+### Windows Applications
+
+- [Intuiter](https://github.com/sungle3737/intuiter) - Productivity Tool -
+  `winget install intuiter`
 
 <br/>
 
