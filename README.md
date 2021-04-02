@@ -50,6 +50,7 @@ Simple and Kind is my Software Products' Motto
 - [Seong-Land](https://seongland.com) - Main Page
 - [Point-Land](https://point.seongland.com) - Web Metaverse
 - [Live-Land](https://live.seongland.com) - Seongland Broadcast
+- [Account-Land](https://account.seongland.com) - Seongland Account
 - [Status-Land](https://status.seongland.com) - Seongland Services Status
 
 <br/>
