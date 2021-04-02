@@ -31,7 +31,7 @@
 --->
 
 ## My Products
-Simple and Kind is my Software's Motto
+Simple and Kind is my Software Products' Motto
 
 ### VScode Extensions
 
