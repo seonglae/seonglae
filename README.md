@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/27716524/112935018-e121b200-915d-11eb-950f-527677b8f413.png">
 </a>
 
-### Learned Stack Links
+### Learned Stack Documents
 
 - **Infrastructure** -
   [GCP](https://doc.seongland.com/GCP-dc29aee7d3da4cfbaed3f8bce47e8424),
