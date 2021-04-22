@@ -1,12 +1,3 @@
-<a href="https://seongland.com">
-<img src="https://user-images.githubusercontent.com/27716524/112935018-e121b200-915d-11eb-950f-527677b8f413.png">
-</a>
-
-<!---
-[![Seonglae's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonglae&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungle3737&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
---->
 
 ## My Products
 Simple and Kind is my Software Products' Motto
