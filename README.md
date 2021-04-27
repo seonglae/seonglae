@@ -1,8 +1,7 @@
-## My Products
-
-Simple and Kind is my Software's Motto
 ![seongland](seongland.gif)
 
+## My Products
+Simple and Kind is my Software's Motto
 | Web Page                                      | Public Relation                                                                                                                                                             | Applications                                                                                      | Library                                              | Template                                                          |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
 | [Seong-Land](https://seongland.com)           | [![Notion Badge](https://img.shields.io/badge/Notion-white?style=round-square&logo=notion&logoColor=black)](https://doc.seongland.com)                                      | [Intuiter](https://github.com/seonglae/intuiter)                                                  | [Layerspace](https://github.com/seonglae/layerspace) | [Nuxt TS](https://github.com/seonglae/nuxt-ts-template)           |
