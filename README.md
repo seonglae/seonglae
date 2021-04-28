@@ -36,8 +36,3 @@ Simple and Kind is my Software's Motto
   [Vue](https://doc.seongland.com/Vue-f1e411ee22464799b47cad2c83cee06f),
   [Nuxt.js](https://doc.seongland.com/Nuxt-f622f76b0cb64b3dae70c11ddc544114),
   [Next.js](https://doc.seongland.com/Next-js-a75e711438774ea5aaffeb913b3173f0)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonglae&layout=compact&show_icons=true&title_color=fff&icon_color=7997ff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
--
