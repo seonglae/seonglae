@@ -9,8 +9,6 @@ Simple and Kind is my Software's Motto
 | [Live-Land](https://live.seongland.com)       | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=round-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seonglae/)                     | [One Dark Teal](https://marketplace.visualstudio.com/items?itemName=seonglae.one-dark-teal)       |                                                      |                                                                   |
 | [Account-Land](https://account.seongland.com) | [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=round-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006296858033) | [Basher](https://github.com/seonglae/basher)                                                      |                                                      |                                                                   |
 
-<br/>
-
 ## Tech Stacks
 
 - **Infrastructure** -
