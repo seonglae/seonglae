@@ -22,7 +22,7 @@
 <tr>
 <td align="center"><a href="https://point.seongland.com">☁️Point-Land</a></td>
 <td align="center"><a href="https://seongland.medium.com/"><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-black?style=round-square&amp;logo=medium&amp;logoColor=white" /></a></td>
-<td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter">VSCode Intuiter</a></td>
+<td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter">💻VSCode Intuiter</a></td>
 <td align="center"><a href="https://github.com/seonglae/next-ts-template">🔼Next js</a></td>
 <td align="center"><a href="https://github.com/seonglae/mapspace">🗺️Layermap</a></td>
 </tr>
