@@ -24,7 +24,7 @@
 <td align="center"><a href="https://seongland.medium.com/"><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-black?style=round-square&amp;logo=medium&amp;logoColor=white" /></a></td>
 <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter">💻VSCode Intuiter</a></td>
 <td align="center"><a href="https://github.com/seonglae/nuxtra">🔼Nextra</a></td>
-<td align="center"><a href="https://github.com/seonglae/mapspace">🗺️Layermap</a></td>
+<td align="center"><a href="https://github.com/seonglae/layermap">🗺️Layermap</a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://live.seongland.com">📺Live-Land</a></td>
