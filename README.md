@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.seongland.com"><img alt="seongland" src="seongland.gif" /></a></p>
+<p align="center"><a href="https://www.seongland.com"><img alt="seongland" src="seongland.gif" style="height: 4rem"/></a></p>
 <h2 align="center">My Products</h2>
 <p align="center">Simple and Kind is my Software's Motto</p>
 <table align="center">
