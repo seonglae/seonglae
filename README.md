@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://live.seongland.com">📺Live-Land</a></td>
-<td align="center"><a href="https://www.linkedin.com/in/seonglae/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=round-square&amp;logo=LinkedIn&amp;logoColor=white" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/seonglae/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=round-square&amp;logo=LinkedIn&amp;logoColor=white" />➰To Smooth</a></td>
 <td align="center"><a href="https://github.com/seonglae/press-overlay">💻Press Overlay</a></td>
 <td align="center"><a href="https://github.com/seonglae/reacterial">⚛️Reacterial</a></td>
 <td align="center"></td>
