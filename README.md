@@ -16,7 +16,7 @@
 <td align="center"><a href="https://www.seongland.com">🌍Seong-Land</a></td>
 <td align="center"><a href="https://next.seongland.com"><img alt="Notion Badge" src="https://img.shields.io/badge/Notion-white?style=round-square&amp;logo=notion&amp;logoColor=black" /></a></td>
 <td align="center"><a href="https://github.com/seonglae/intuiter">🖥️Intuiter</a></td>
-<td align="center"><a href="https://github.com/seonglae/nuxtify">♻Nuxtify</a></td>
+<td align="center"><a href="https://github.com/seonglae/nuxtify">💦Nuxtify</a></td>
 <td align="center"><a href="https://github.com/seonglae/layerspace">☁️Layerspace</a></td>
 </tr>
 <tr>
