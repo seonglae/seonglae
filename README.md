@@ -48,12 +48,12 @@
 <p align="center"><strong>Infrastructure</strong> -
 <a href="https://seongland.seongland.com/GCP-dc29aee7d3da4cfbaed3f8bce47e8424">GCP</a>,
 <a href="https://seongland.seongland.com/Cloudflare-878e4d0e330a430f9b2fe653de49c523">Cloudflare</a>,
-<a href="https://seongland.seongland.com/Docker-103c7b90450f45bda55b9b75d0d9e73a">Docker</a></p>
+<a href="https://seongland.seongland.com/Docker-103c7b90450f45bda55b9b75d0d9e73a">Docker</a>
 <a href="https://seongland.seongland.com/Kubernetes-e84d655289d447619f131783283b9b94">K8S</a></p>
 <p align="center"><strong>DBMS</strong> -
 <a href="https://seongland.seongland.com/mongoDB-2444695fc9c64c75b982098bbb93b5e1">MongoDB</a>,
 <a href="https://seongland.seongland.com/PostgreSQL-3ae3f466dca04db5a5e1d1f8560f1cfb">PostgreSQL</a>,
-<a href="https://seongland.seongland.com/Redis-0160526170bd4e63a8d0963c98c09fc5">Redis</a></p>
+<a href="https://seongland.seongland.com/Redis-0160526170bd4e63a8d0963c98c09fc5">Redis</a>
 <a href="https://seongland.seongland.com/InfluxDB-eeccbffc14da40b0944ba7dca325b892">InfluxDB</a></p>
 <p align="center"><strong>Language</strong> -
 <a href="https://seongland.seongland.com/JavaScript-d8251729bdf14178bd7f08044cd0810a">Javascript</a>,
