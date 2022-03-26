@@ -1,4 +1,3 @@
-
 <h2 align="center">My Products</h2>
 <p align="center">Simple and Kind is my Software's Motto</p>
 <table align="center">
