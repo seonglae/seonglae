@@ -24,7 +24,7 @@
 <td align="center"><a href="https://seongland.medium.com/"><img alt="Medium Badge" src="https://img.shields.io/badge/Medium-black?style=round-square&amp;logo=medium&amp;logoColor=white" /></a></td>
 <td align="center"><a href="https://github.com/seongland/pointland">Pointland</a>
 </td>
-<td align="center"><a href="https://github.com/seonglae/nextra">Nextra</a></td>
+<td align="center"><a href="https://github.com/seonglae/next-windi">Wext</a></td>
 <td align="center"><a href="https://github.com/seonglae/github-setter">Github Setter</a></td>
 </tr>
 <tr>
