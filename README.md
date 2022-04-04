@@ -42,8 +42,10 @@
 <td align="center"><a href="https://github.com/seonglae/dancing-button">Dancing Button</a></td>
 </tr>
 </tbody>
+</table>
 
-<h2 align="center"><a href="https://seonglae-slides.vercel.app/3">Knowledge Sharing</a></h2>
+<h2 align="center"><a href="https://seonglae-slides.vercel.app/3
+">Knowledge Sharing</a></h2>
 <p align="center"><strong>Infrastructure</strong> -
 <a href="https://threetrees.cloud/GCP-dc29aee7d3da4cfbaed3f8bce47e8424">GCP</a>,
 <a href="https://threetrees.cloud/Cloudflare-878e4d0e330a430f9b2fe653de49c523">Cloudflare</a>,
