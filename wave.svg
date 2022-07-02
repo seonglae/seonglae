@@ -1,0 +1,41 @@
+<svg viewBox="0 0 115 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+
+svg {
+  width:100vw;
+  position:fixed;
+  transform: rotate(360deg);
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #9db1ee;  
+}
+
+.right {
+  animation-duration:5s;
+  animation-direction: reverse;
+  opacity: .4;
+  fill: #aedcf6;
+}
+.left {
+  animation-duration: 7s;
+  opacity:.3;
+  fill: #9db1ee;
+}
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+
+
+</style>
+
+  <defs>
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs>
+  <use class="wave left" xlink:href="#wave" x="0" y="-3"></use>
+  <use class="wave right" xlink:href="#wave" x="0" y="0"></use>
+  <use class="wave right" xlink:href="#wave" x="0" y="6"></use>
+  <use class="wave left" xlink:href="#wave" x="0" y="-9"></use>
+</svg>
