@@ -2,10 +2,10 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">AI</th>
-<th align="center">Web Page</th>
+<th align="center">Research</th>
+<th align="center">Page</th>
 <th align="center">Social</th>
-<th align="center">Applications</th>
+<th align="center">Application</th>
 <th>Library</th>
 </tr>
 </thead>
